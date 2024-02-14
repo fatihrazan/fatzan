@@ -1,0 +1,55 @@
+body{
+    background-color: pink;
+}
+.header{
+    background-color: aliceblue;
+    border-radius: 5px;
+    height:fit-content;
+    
+}
+.nama{
+    font-size: 70px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gambar1{
+    width: 500px;
+    height: 500px;
+}
+
+.jawaban{
+    text-decoration: none;
+    height: 20vh;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+
+.jawab{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+    background-color: bisque;
+    border: 3px solid white;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.pertanyaan{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+
+
